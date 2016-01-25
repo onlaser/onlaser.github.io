@@ -186,7 +186,7 @@ input[type="radio"] {
 }
 @media (max-width: 767px) {
 
-
+.well2{padding:30px;}
         .jumbotron h1{line-height: 30px;
             font-size: 30px;}
 
